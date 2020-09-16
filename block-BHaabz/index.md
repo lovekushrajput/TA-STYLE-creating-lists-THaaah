@@ -1,5 +1,3 @@
-writeCode
-
 - Create a layout according to the design shown below.
 
 ![Creating lists Assignment level 2](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/lists/ex-2.png)
